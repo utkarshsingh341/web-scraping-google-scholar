@@ -1,6 +1,6 @@
 # Web Scraping And Data Acquisition Using Google Scholar
 
-Link:- https://ieeexplore.ieee.org/abstract/document/8768777
+Paper Link:- https://ieeexplore.ieee.org/abstract/document/8768777
 
 ***
 
